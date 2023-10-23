@@ -1,5 +1,8 @@
 # ClassGit2023
 
+<<<<<<< HEAD
+practical
+=======
 this is kz
 
 hello how are you?
@@ -35,4 +38,3 @@ Nicholas was here :)
 
 
 plz im here dont kill meh
-Anonymouse Potato was here
