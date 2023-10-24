@@ -58,3 +58,4 @@ plz im here dont kill meh
 >>>>>>> 5fec6021b7b952027502ffa1a5b7a942e94aa1d6
 =======
 >>>>>>> 6f13144c641da6f18ee4b8dad4c900961de1c5ef
+"Trying to merge branch" 
