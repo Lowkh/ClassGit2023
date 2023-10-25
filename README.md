@@ -60,3 +60,4 @@ plz im here dont kill meh
 >>>>>>> 6f13144c641da6f18ee4b8dad4c900961de1c5ef
 "Trying to merge branch" 
 "Trying to merge branch" 
+"Testing merge" 
